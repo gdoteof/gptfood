@@ -1,0 +1,7 @@
+Our overarching goal is to create a scad file, usable by openscad, to create a model that can configure  variety of 3d printable cases for the orange pi 5.
+
+Your specific task here is to create a scad file that can generate tight fitting walls for the cases.
+
+You will find a folder called gptfood, inside there is a folder with stl files; one of those stl files is an orange pi 5 scan.
+
+You should load this scan into a scad file; and then use it as a stamp of sorts to cut out pieces of a block to create a case wall.

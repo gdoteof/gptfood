@@ -1,0 +1,7 @@
+At the beginning of every session:
+  check feedback in feedback.txt
+  do a diagnostic check of redis memory
+Your current task is always in the folder current_task
+Your next task, if any is in the folder next_task.  If the next_task folder is empty and you complete your current task, you should rest.
+
+This file will never change.
